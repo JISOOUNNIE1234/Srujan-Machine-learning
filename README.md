@@ -129,14 +129,12 @@ Running the notebook will automatically:
 project/
 │
 ├── figures/
-│   ├── training_loss_no_dropout.png
-│   ├── training_loss_dropout.png
-│   ├── accuracy_curves.png
-│   ├── metric_comparison.png
+│   ├── training_loss_vs_Validation_curves.png
+│   ├── training_accuracy_vs_Validation_curves.png
 │   └── ...
 │
-├── dropout_tutorial.ipynb
-├── Srijan_ML_Report.pdf / .docx
+├── ML_Assignment.ipynb
+├── 24099354_ML_Report.pdf / .docx
 ├── README.md
 └── LICENSE
 ```
